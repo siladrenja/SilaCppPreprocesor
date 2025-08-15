@@ -1,0 +1,5 @@
+edit.meta
+*pycache*
+*.cpp
+*.cxx
+*.hpp
